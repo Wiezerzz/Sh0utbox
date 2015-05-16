@@ -1,0 +1,32 @@
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\bin\Debug\Sh0utbox.exe.config
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\bin\Debug\Sh0utbox.exe
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\bin\Debug\Sh0utbox.pdb
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\bin\Debug\MetroFramework.dll
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\obj\Debug\Sh0utbox.csprojResolveAssemblyReference.cache
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\obj\Debug\Sh0utbox.Properties.Resources.resources
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\obj\Debug\Sh0utbox.csproj.GenerateResource.Cache
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\obj\Debug\Sh0utbox.exe
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\obj\Debug\Sh0utbox.pdb
+C:\Users\Aurel\AppData\Local\Temporary Projects\Sh0utbox\obj\Debug\Sh0utbox.MainForm.resources
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\bin\Debug\Sh0utbox.exe.config
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.exe
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.pdb
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\bin\Debug\Sh0utbox.exe
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\bin\Debug\Sh0utbox.pdb
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\bin\Debug\MetroFramework.dll
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.csprojResolveAssemblyReference.cache
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.MainForm.resources
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.Properties.Resources.resources
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.csproj.GenerateResource.Cache
+C:\Users\Aurel\Documents\Visual Studio 2013\Projects\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.LoginForm.resources
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\bin\Debug\Sh0utbox.exe.config
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.exe
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.pdb
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\bin\Debug\Sh0utbox.exe
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\bin\Debug\Sh0utbox.pdb
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.csprojResolveAssemblyReference.cache
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.LoginForm.resources
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.MainForm.resources
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.Properties.Resources.resources
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\obj\Debug\Sh0utbox.csproj.GenerateResource.Cache
+C:\Users\Aurel\Documents\GitHub\Sh0utbox\Sh0utbox\bin\Debug\MetroFramework.dll

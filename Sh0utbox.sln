@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sh0utbox", "Sh0utbox\Sh0utbox.csproj", "{9B1D9703-E7A0-446D-8ABE-E4B9B6058B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1D9703-E7A0-446D-8ABE-E4B9B6058B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1D9703-E7A0-446D-8ABE-E4B9B6058B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1D9703-E7A0-446D-8ABE-E4B9B6058B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1D9703-E7A0-446D-8ABE-E4B9B6058B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
